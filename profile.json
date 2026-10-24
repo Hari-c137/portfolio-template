@@ -1,0 +1,99 @@
+{
+    "name": "Hariprasad Aji",
+    "tagline": " i like prime numbers :) and hate AI >:( ",
+    "bio": "20 year old self-taught (dys)functional programmer ( i also <3 cats!!! ^_^ ) ",
+    "skills": [
+        "osdev",
+        "nix (pkg-manager & lang)",
+        "Unix",
+        "Linux",
+        "Distrubuted Systems",
+        "Virtulization & Containers",
+        "rust",
+        "Linux native GUI dev",
+        "VCS",
+        "modal based text-editors",
+        "GUI programming",
+        "haskell",
+        "shader-programming",
+        "FP (funtional programming)",
+        "nim",
+        "shell-scripting (POSIX)"
+    ],
+    "projects": [
+        {
+            "title": "Echelon",
+            "desc": "extremely unstable opinionated NixOS multi-user infrastructure",
+            "link": "https://github.com/echelon"
+        },
+        {
+            "title": "clearwm",
+            "desc": "minimal window manager implementation in rust for river wayland compositor.",
+            "link": "https://github.com/clearwm"
+        },
+        {
+            "title": "brainfuck",
+            "desc": " brainfuck interpreter implementation in nim(completed) and rust(W.I.P)",
+            "link": "https://codeberg.org/clearlyopaque/brainfuck"
+        },
+        {
+            "title": "Slyfox",
+            "desc": "user.js and userChrome files for minimal firefox UI",
+            "link": "https://github.com/slyfox"
+        },
+        {
+            "title": "c137-wm",
+            "desc": "my custom fork of dwl wayland compositor with patches",
+            "link": "https://github.com/c137-wm"
+        },
+        {
+            "title": "startpage",
+            "desc": "minimal highly-optimized startpage for firefox (try cracking the passwd for urself.. teehee)",
+            "link": "https://hari-c137.github.io/"
+        },
+        {
+            "title": "wireframes",
+            "desc": "wireframe rendering of 3D primitive shapes",
+            "link": "https://codeberg.org/clearlyopaque/wireframes"
+        },
+        {
+            "title": "myVoid-pkgs",
+            "desc": "a collection of personal void-packages xbps-src templates i maintain",
+            "link": "https://github.com/Hari-c137/myVoid-pkgs"
+        },
+        {
+            "title": "signlanginterpreter",
+            "desc": "language standard agnostic sign language interpreter",
+            "link": "https://github.com/Hari-c137/signlanginterpreter"
+        },
+        {
+            "title": "dumb-scripts",
+            "desc": "bunch of linux helper scripts for QoL",
+            "link": "https://github.com/Hari-c137/dumb_scripts"
+        },
+        {
+            "title": "qiso",
+            "desc": "a shell script to download isoes from multiple linux distro's from the termial",
+            "link": "https://github.com/Hari-c137/QuickISO"
+        },
+        {
+            "title": "weeb-site",
+            "desc": "personal blog, code documentations, infodump",
+            "link": "https://hari-c137.pages.dev/"
+        },
+        {
+            "title": "EchelonLinux",
+            "desc": "a void linux based distrubution for developers (predecessor to echelon)",
+            "link": "https://github.com/Hari-c137/EchelonLinux"
+        },
+        {
+            "title": "extras..",
+            "desc": "a bunch of small programs that i didnt feel like naming but stil does cool stuff. for example, programmed named 'sway_tiler' provides dynamic tiling behaviour to sway wayland compositor externally through a daemon process",
+            "link": "https://github.com/Hari-c137/code_dump"
+        }
+    ],
+    "links": {
+        "github": "https://github.com/Hari-c137",
+        "codeberg": "https://codeberg.org/clearlyopaque"
+    }
+}
