@@ -66,7 +66,7 @@ impl eframe::App for TemplateApp {
 
         egui::CentralPanel::default().show(ui, |ui| {
             // The central panel the region left after adding TopPanel's and SidePanel's
-            ui.heading("Portfolio");
+            ui.heading("Under Construction");
 
             ui.horizontal(|ui| {
                 ui.label("Write something: ");
