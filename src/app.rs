@@ -6,15 +6,15 @@ pub struct TemplateApp {
     value: f32,
 }
 
-pub struct Aboutrs {
-    name: String,
-    value: f32,
-}
+// pub struct Aboutrs {
+//     name: String,
+//     value: f32,
+// }
 
 impl Default for TemplateApp {
     fn default() -> Self {
         Self {
-            label: "Hello Hell..!".to_owned(),
+            label: "Hello Hell...!!!".to_owned(),
             value: 13.7,
         }
     }
@@ -114,9 +114,11 @@ impl eframe::App for TemplateApp {
             ));
 
             ui.with_layout(egui::Layout::bottom_up(egui::Align::LEFT), |ui| {
-                // powered_by_egui_and_eframe(ui);
+                powered_by_egui_and_eframe(ui);
                 egui::warn_if_debug_build(ui);
             });
+
+            shitshit(ui);
         });
     }
 }
