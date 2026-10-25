@@ -1,7 +1,7 @@
 var cacheName = 'aboutrs';
 var filesToCache = [
   './',
-  './index.html',
+  './index.html', // dev thingyy.. change before deploying u dumbfuck
   './aboutrs.js',
   './aboutrs_bg.wasm',
 ];
