@@ -126,7 +126,7 @@ in my honest opinion normal people shouldn't be allowed to use computers in the 
             ui.hyperlink_to("3. Clearwm", "https://github.com/Hari-c137/clearwm");
             ui.label("minimal window manager implementation for river wayland compositor written in rust.");
             ui.separator();
-            ui.hyperlink_to("4. Startpage", "https://github.com/hari-c137.github.io");
+            ui.hyperlink_to("4. Startpage", "https://github.com/Hari-c137/hari-c137.github.io");
             ui.label("a minimal,keyboard-driven startpage with smart suggestions for power users and lazy developers");
             ui.separator();
             ui.hyperlink_to("5. c137-wm", "https://github.com/Hari-c137/c137-wm");
@@ -135,16 +135,16 @@ in my honest opinion normal people shouldn't be allowed to use computers in the 
             ui.hyperlink_to("6. SignlangInterpreter", "https://github.com/Hari-c137/signlanginterpreter");
             ui.label("language standard agnostic sign language interpreter");
             ui.separator();
-            ui.hyperlink_to("7. brainfuck", "https:://codeberg.org/clearlyopaque/brainfuck");
+            ui.hyperlink_to("7. brainfuck", "https://codeberg.org/clearlyopaque/brainfuck");
             ui.label("brainfuck interpreter implementation in nim(complete) and rust(rewrite)");
             ui.separator();
-            ui.hyperlink_to("8. wireframe", "https:://codeberg.org/clearlyopaque/wireframe");
+            ui.hyperlink_to("8. wireframe", "https://codeberg.org/clearlyopaque/wireframe");
             ui.label("wireframe rendering of 3D primitive shapes");
             ui.separator();
             ui.hyperlink_to("9. discord bypasser", "https://github.com/Hari-c137/.well-known");
             ui.label("bypasser for discord custom domain verification through HTTPS (guide)");
             ui.separator();
-            ui.hyperlink_to("10. Opensource Contributions and More..", "https:://github.com/Hari-c137");
+            ui.hyperlink_to("10. Opensource Contributions and More..", "https://github.com/Hari-c137/");
             ui.label("active open source contributor and maintainer for multiple orgainzations such as voidlinux.org, nixpkgs, niri-wayland compositor, zed-editor, cachyos, dxvk, Linux-kernel's xpad driver etc etc.. ");
             ui.separator();
             ui.label("and other multiple softwares that i wrote that will be soon opensourced and opensource ones that am too lazy to list out here.. just go fucking look at my github.");
