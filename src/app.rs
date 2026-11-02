@@ -211,7 +211,7 @@ fn link(ui: &mut egui::Ui) {
     );
     ui.hyperlink_to(
         "Blog (notes,infodump and rant)",
-        "https://hari-c137-pages.dev",
+        "https://hari-c137.pages.dev",
     );
 }
 
