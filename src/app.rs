@@ -149,8 +149,7 @@ in my honest opinion normal people shouldn't be allowed to use computers in the 
             ui.separator();
             ui.label("and other multiple softwares that i wrote that will be soon opensourced and opensource ones that am too lazy to list out here.. just go fucking look at my github.");
             ui.separator();
-            
-            });
+           });
             });
         egui::Window::new("My Skills")
             .pivot(egui::Align2::CENTER_CENTER)
@@ -217,5 +216,6 @@ fn link(ui: &mut egui::Ui) {
 }
 
 // background
-// shaders
-//
+// shaders {vertex and shaders}
+// conways game of life
+// blob inbuilt compiler, os?!
