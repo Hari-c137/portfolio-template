@@ -136,10 +136,10 @@ in my honest opinion normal people shouldn't be allowed to use computers in the 
             ui.label("language standard agnostic sign language interpreter");
             ui.separator();
             ui.hyperlink_to("7. brainfuck", "https:://codeberg.org/clearlyopaque/brainfuck");
-            ui.label("wireframe rendering of 3D primitive shapes");
+            ui.label("brainfuck interpreter implementation in nim(complete) and rust(rewrite)");
             ui.separator();
             ui.hyperlink_to("8. wireframe", "https:://codeberg.org/clearlyopaque/wireframe");
-            ui.label(" is an experimental high-opinated NixOS dervied custom multiuser infrastructure that i wrote for by personal desktop, laptops and server");
+            ui.label("wireframe rendering of 3D primitive shapes");
             ui.separator();
             ui.hyperlink_to("9. discord bypasser", "https://github.com/Hari-c137/.well-known");
             ui.label("bypasser for discord custom domain verification through HTTPS (guide)");
